@@ -1,1 +1,2 @@
-console.log('Loaded!');
+counter code
+var button=documnet.getelements
